@@ -1,0 +1,22 @@
+#s{
+    top:0;
+    bottom:0;
+ position:sticky;
+ background-color: blue;   
+}
+#h{
+    position:static;
+    background-color: red;
+}
+#para{
+    position:fixed;
+    background-color:yellow
+}
+#r{
+    position:relative;
+    background-color: green;
+}
+#a{
+    position:absolute;
+    background-color: pink;
+}
