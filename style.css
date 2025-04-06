@@ -20,3 +20,11 @@
     position:absolute;
     background-color: pink;
 }
+#t{
+    position:relative;
+    background-color:cyan;
+}
+#s{
+    position:relative;
+    background-color:purple;
+}
